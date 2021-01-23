@@ -33,6 +33,8 @@ You can use the website to generate badges: https://shields.io/
 - 📫 How to reach me: pramudithbhashitha2004@gmail.com;
 
 
+[![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
+
 
 
 # GITHUB STATUS.
