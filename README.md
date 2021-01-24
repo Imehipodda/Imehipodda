@@ -84,6 +84,9 @@ You can use the website to generate badges: https://shields.io/
 <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://github.com/th3unkn0n/extra/blob/master/.img/ig.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 ---
 
 
