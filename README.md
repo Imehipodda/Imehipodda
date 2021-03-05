@@ -38,12 +38,12 @@ You can use the website to generate badges: https://shields.io/
 
 
 # GITHUB STATUS.
-- ![Profile views](https://gpvc.arturio.dev/pramudithbhashitha)
-- [![GitHub followers](https://img.shields.io/github/followers/pramudithbhashitha.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/pramudithbhashitha?tab=followers)
+- ![Profile views](https://gpvc.arturio.dev/ImBhashitha)
+- [![GitHub followers](https://img.shields.io/github/followers/ImBhashitha.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/pramudithbhashitha?tab=followers)
 
 <p>
-  <a href="https://github.com/pramudithbhashitha/handle-path-oz">
-    <img width="55%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=pramudithbhashitha&show_icons=true&hide_border=true" />
+  <a href="https://github.com/ImBhashitha/handle-path-oz">
+    <img width="55%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=ImBhashitha&show_icons=true&hide_border=true" />
   </a>
 </p>
 <p align ="right">
@@ -74,7 +74,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 # MOST USED LANGUAGES
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Pramudithbhashitha)
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=ImBhashitha)
 
 
 
