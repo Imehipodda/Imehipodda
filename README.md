@@ -44,7 +44,7 @@ You can use the website to generate badges: https://shields.io/
 </p>
 
 
-
+#
 
 # TOOLS AND LANGS USED
 - ![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python)&nbsp;&nbsp;
