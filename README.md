@@ -33,10 +33,6 @@ You can use the website to generate badges: https://shields.io/
 - 📫 How to reach me: pramudith.bhashitha17@gmail.com;
 
 
-[![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
-
-
-
 # GITHUB STATUS.
 - ![Profile views](https://gpvc.arturio.dev/ImBhashitha)
 - [![GitHub followers](https://img.shields.io/github/followers/ImBhashitha.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ImBhashitha?tab=followers)
