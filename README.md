@@ -41,12 +41,10 @@ You can use the website to generate badges: https://shields.io/
   <a href="https://github.com/ImBhashitha/handle-path-oz">
     <img width="55%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=ImBhashitha&show_icons=true&hide_border=true" />
   </a>
-</p>
 
 
-<a>
-#####
-# TOOLS AND LANGS USED
+
+# TOOLS AND LANGS USED.
 - ![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python)&nbsp;&nbsp;
 - ![Pycharm](https://img.shields.io/badge/PYcharm-ffffff?style=for-the-badge&logo=pycharm)&nbsp;&nbsp;
 - ![VCS](https://img.shields.io/badge/visual%20studio%20code-E52E06?style=for-the-badge&logo=visual-studio-code)&nbsp;&nbsp;
