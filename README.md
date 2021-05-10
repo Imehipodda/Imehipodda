@@ -2,9 +2,9 @@
 
 
 
-|  <a href="https://t.me/ImBhashitha/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
+|  <a href="https://t.me/Im_ehi_podda/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[BHASHITHA](https://t.me/ImBhashitha/)**                                                                                |
+|       **[SURESH MANOHARA](https://t.me/Im_ehi_podda/)**                                                                                |
 | <a href="https://github.com/ImBhashitha"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.instagram.com//"><img src="https://i.ibb.co/Kx2GSrT/instagram.png" width="32px" height="32px"></a> |
 
 
