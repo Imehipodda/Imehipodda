@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Imehipodda)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/Pramudith_Bhashitha/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/sureshmanohara/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](SURESH MANOHARA:www.2001manohara@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:)
 
@@ -34,12 +34,12 @@ You can use the website to generate badges: https://shields.io/
 
 
 # GITHUB STATUS.
-- ![Profile views](https://gpvc.arturio.dev/ImBhashitha)
-- [![GitHub followers](https://img.shields.io/github/followers/ImBhashitha.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ImBhashitha?tab=followers)
+- ![Profile views](https://gpvc.arturio.dev/Imehipodda)
+- [![GitHub followers](https://img.shields.io/github/followers/Imehipodda.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Imehipodda?tab=followers)
 
 <p>
-  <a href="https://github.com/ImBhashitha/handle-path-oz">
-    <img width="55%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=ImBhashitha&show_icons=true&hide_border=true" />
+  <a href="https://github.com/Imehipodda/handle-path-oz">
+    <img width="55%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=Imehipodda&show_icons=true&hide_border=true" />
   </a>
 
 
@@ -53,7 +53,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 # MOST USED LANGUAGES
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=ImBhashitha)
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Imehipodda)
 
 
 
