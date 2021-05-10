@@ -1,4 +1,4 @@
-# Hey , I am SURESH-MANOHARA 🇱🇰 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hey , I am SURESH MANOHARA(im ehipodda)🇱🇰 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
 
@@ -22,7 +22,7 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 
-<img width="42%" align="right" alt="Github" src="https://telegra.ph/file/032e346e61e5e2ac25798.png" />
+<img width="42%" align="right" alt="Github" src="https://telegra.ph/file/f93730d2e66b8c27fa908.jpg" />
 
 - 👨🏽‍💻 I’m currently working on [skip](https:///);
 - 🌱 I’m currently learning Python And Linux(CircleCI); 
