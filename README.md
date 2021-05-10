@@ -1,4 +1,4 @@
-# Hey , I am BHASHITHA 🇱🇰 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hey , I am SURESH-MANOHARA 🇱🇰 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
 
@@ -15,9 +15,9 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ImBhashitha)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Imehipodda)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/Pramudith_Bhashitha/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Bhashitha:Pramudith.bhashitha17@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](SURESH MANOHARA:www.2001manohara@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:)
 
 &nbsp;
@@ -26,11 +26,11 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 I’m currently working on [skip](https:///);
 - 🌱 I’m currently learning Python And Linux(CircleCI); 
-- 👯 I’m looking to collaborate on [skip](https://t.me/P_BHASHITHA) 🤝;
+- 👯 I’m looking to collaborate on [skip](https://t.me/Im_ehi_podda) 🤝;
 - 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm Still Student;
-- 📫 How to reach me: pramudith.bhashitha17@gmail.com;
+- 📫 How to reach me:www.2001manohara@gmail.com;
 
 
 # GITHUB STATUS.
